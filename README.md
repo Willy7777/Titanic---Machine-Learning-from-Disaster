@@ -13,7 +13,8 @@ Workflow:
   - Name
   - Sex
   - Age
-  - SibSp, Parch
+  - SibSp
+  - Parch
   - Ticket
   - Fare
   - Cabin
